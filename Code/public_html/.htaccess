@@ -1,0 +1,7 @@
+AddType video/mp4 .mp4
+AddType video/webm .webm
+
+<IfModule mod_headers.c>
+    Header set Accept-Ranges bytes
+</IfModule>
+RewriteRule . - [E=no-gzip:1]

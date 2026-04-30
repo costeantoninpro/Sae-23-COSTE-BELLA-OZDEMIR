@@ -1,0 +1,92 @@
+[
+  {
+    "id_vehicule": 1,
+    "type_vehicule": "voiture",
+    "nb_places": 4,
+    "immatriculation": "AB-123-CD",
+    "assurance": "oui",
+    "controle_technique": "valide",
+    "id_personne": 1
+  },
+  {
+    "id_vehicule": 2,
+    "type_vehicule": "voiture",
+    "nb_places": 3,
+    "immatriculation": "EF-456-GH",
+    "assurance": "oui",
+    "controle_technique": "valide",
+    "id_personne": 3
+  },
+  {
+    "id_vehicule": 3,
+    "type_vehicule": "voiture",
+    "nb_places": 4,
+    "immatriculation": "JK-789-LM",
+    "assurance": "oui",
+    "controle_technique": "valide",
+    "id_personne": 5
+  },
+  {
+    "id_vehicule": 4,
+    "type_vehicule": "voiture",
+    "nb_places": 2,
+    "immatriculation": "NP-321-QR",
+    "assurance": "oui",
+    "controle_technique": "valide",
+    "id_personne": 7
+  },
+  {
+    "id_vehicule": 5,
+    "type_vehicule": "voiture",
+    "nb_places": 5,
+    "immatriculation": "ST-654-UV",
+    "assurance": "oui",
+    "controle_technique": "valide",
+    "id_personne": 9
+  },
+  {
+    "id_vehicule": 6,
+    "type_vehicule": "voiture",
+    "nb_places": 3,
+    "immatriculation": "WX-987-YZ",
+    "assurance": "oui",
+    "controle_technique": "valide",
+    "id_personne": 12
+  },
+  {
+    "id_vehicule": 7,
+    "type_vehicule": "voiture",
+    "nb_places": 4,
+    "immatriculation": "BC-147-DE",
+    "assurance": "oui",
+    "controle_technique": "valide",
+    "id_personne": 15
+  },
+  {
+    "id_vehicule": 8,
+    "type_vehicule": "voiture",
+    "nb_places": 3,
+    "immatriculation": "FG-258-HI",
+    "assurance": "oui",
+    "controle_technique": "valide",
+    "id_personne": 18
+  },
+  {
+    "id_vehicule": 9,
+    "type_vehicule": "voiture",
+    "nb_places": 4,
+    "immatriculation": "KL-369-MN",
+    "assurance": "oui",
+    "controle_technique": "valide",
+    "id_personne": 21
+  },
+  {
+    "id_vehicule": 10,
+    "type_vehicule": "voiture",
+    "nb_places": 2,
+    "immatriculation": "OP-741-RS",
+    "assurance": "oui",
+    "controle_technique": "valide",
+    "id_personne": 24
+  }
+]

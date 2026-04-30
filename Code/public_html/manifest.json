@@ -1,0 +1,16 @@
+{
+  "name": "FCSM Covoiturage",
+  "short_name": "FCSM",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#003b71",
+  "theme_color": "#003b71",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo_FCSM.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

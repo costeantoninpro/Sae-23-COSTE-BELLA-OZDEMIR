@@ -1,0 +1,58 @@
+[
+  {
+    "id_date": 1,
+    "jour": "lundi",
+    "date": "2026-05-04",
+    "heure_depart": "17:30",
+    "heure_arrivee": "18:00"
+  },
+  {
+    "id_date": 2,
+    "jour": "lundi",
+    "date": "2026-05-04",
+    "heure_depart": "22:15",
+    "heure_arrivee": "22:45"
+  },
+  {
+    "id_date": 3,
+    "jour": "mardi",
+    "date": "2026-05-05",
+    "heure_depart": "17:45",
+    "heure_arrivee": "18:15"
+  },
+  {
+    "id_date": 4,
+    "jour": "mercredi",
+    "date": "2026-05-06",
+    "heure_depart": "18:00",
+    "heure_arrivee": "18:30"
+  },
+  {
+    "id_date": 5,
+    "jour": "jeudi",
+    "date": "2026-05-07",
+    "heure_depart": "17:30",
+    "heure_arrivee": "18:00"
+  },
+  {
+    "id_date": 6,
+    "jour": "vendredi",
+    "date": "2026-05-08",
+    "heure_depart": "18:15",
+    "heure_arrivee": "18:45"
+  },
+  {
+    "id_date": 7,
+    "jour": "samedi",
+    "date": "2026-05-09",
+    "heure_depart": "13:30",
+    "heure_arrivee": "14:00"
+  },
+  {
+    "id_date": 8,
+    "jour": "samedi",
+    "date": "2026-05-09",
+    "heure_depart": "18:30",
+    "heure_arrivee": "19:00"
+  }
+]

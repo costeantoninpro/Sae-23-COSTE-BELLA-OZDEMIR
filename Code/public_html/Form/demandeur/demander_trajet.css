@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+.page {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carte {
+    width: 100%;
+    max-width: 420px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.carte h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.class {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.section-formulaire {
+    margin-top: 10px;
+    padding-top: 20px;
+    border-top: 1px solid #dddddd;
+}
+
+.section-formulaire h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.section-formulaire .champ {
+    margin-bottom: 18px;
+}
+
+.champ {
+    display: flex;
+    flex-direction: column;
+}
+
+.champ label {
+    margin-bottom: 5px;
+}
+
+.champ input[type="text"],
+.champ input[type="email"] {
+    padding: 10px;
+    border: 1px solid #999999;
+    border-radius: 5px;
+}
+
+.class button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffe100;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.message {
+    margin-bottom: 16px;
+    padding: 12px;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+.message.succes {
+    background-color: #e8f7e8;
+    color: #1c6b1c;
+    border: 1px solid #b6dfb6;
+}
+
+.message.erreur {
+    background-color: #fdeaea;
+    color: #a12626;
+    border: 1px solid #f1b9b9;
+}

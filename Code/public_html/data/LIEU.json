@@ -1,0 +1,210 @@
+[
+  {
+    "id_lieu": 1,
+    "adresse": "1 rue des frères lumière",
+    "ville": "Valentigney",
+    "type_lieu": "domicile",
+    "latitude": 47.4639,
+    "longitude": 6.8314
+  },
+  {
+    "id_lieu": 2,
+    "adresse": "1 rue du bois bourgeois",
+    "ville": "Montbéliard",
+    "type_lieu": "domicile",
+    "latitude": 47.5102,
+    "longitude": 6.7987
+  },
+  {
+    "id_lieu": 3,
+    "adresse": "10 bis rue du lomont",
+    "ville": "Pierrefontaine-les-Blamont",
+    "type_lieu": "domicile",
+    "latitude": 47.395,
+    "longitude": 6.872
+  },
+  {
+    "id_lieu": 4,
+    "adresse": "100 route d'Audincourt",
+    "ville": "Montbéliard",
+    "type_lieu": "domicile",
+    "latitude": 47.5102,
+    "longitude": 6.7987
+  },
+  {
+    "id_lieu": 5,
+    "adresse": "13 rue de Belfort",
+    "ville": "Audincourt",
+    "type_lieu": "domicile",
+    "latitude": 47.4833,
+    "longitude": 6.85
+  },
+  {
+    "id_lieu": 6,
+    "adresse": "13 boulevard Sainte-Marguerite",
+    "ville": "Nice",
+    "type_lieu": "domicile",
+    "latitude": 43.7102,
+    "longitude": 7.262
+  },
+  {
+    "id_lieu": 7,
+    "adresse": "13 rue du Boulonnais",
+    "ville": "Grand-Charmont",
+    "type_lieu": "domicile",
+    "latitude": 47.5264,
+    "longitude": 6.8269
+  },
+  {
+    "id_lieu": 8,
+    "adresse": "15 bis rue de Pezole",
+    "ville": "Valentigney",
+    "type_lieu": "domicile",
+    "latitude": 47.4639,
+    "longitude": 6.8314
+  },
+  {
+    "id_lieu": 9,
+    "adresse": "15 rue d'Illzach",
+    "ville": "Mulhouse",
+    "type_lieu": "domicile",
+    "latitude": 47.7508,
+    "longitude": 7.3359
+  },
+  {
+    "id_lieu": 10,
+    "adresse": "16 rue Bernard Gangloff",
+    "ville": "Belfort",
+    "type_lieu": "domicile",
+    "latitude": 47.6376,
+    "longitude": 6.8629
+  },
+  {
+    "id_lieu": 11,
+    "adresse": "16B rue du Tremplin",
+    "ville": "Morteau",
+    "type_lieu": "domicile",
+    "latitude": 47.0595,
+    "longitude": 6.6076
+  },
+  {
+    "id_lieu": 12,
+    "adresse": "183 place d'Audincourt",
+    "ville": "Audincourt",
+    "type_lieu": "domicile",
+    "latitude": 47.4833,
+    "longitude": 6.85
+  },
+  {
+    "id_lieu": 13,
+    "adresse": "2 impasse des Sources",
+    "ville": "Montmorot",
+    "type_lieu": "domicile",
+    "latitude": 46.6747,
+    "longitude": 5.523
+  },
+  {
+    "id_lieu": 14,
+    "adresse": "2 rue de l'Étuve",
+    "ville": "Montbéliard",
+    "type_lieu": "domicile",
+    "latitude": 47.5102,
+    "longitude": 6.7987
+  },
+  {
+    "id_lieu": 15,
+    "adresse": "2 rue Henri Matisse",
+    "ville": "Montbéliard",
+    "type_lieu": "domicile",
+    "latitude": 47.5102,
+    "longitude": 6.7987
+  },
+  {
+    "id_lieu": 16,
+    "adresse": "2 rue du Poitou",
+    "ville": "Vieux-Thann",
+    "type_lieu": "domicile",
+    "latitude": 47.8044,
+    "longitude": 7.119
+  },
+  {
+    "id_lieu": 17,
+    "adresse": "20 avenue du Général Leclerc",
+    "ville": "Sochaux",
+    "type_lieu": "domicile",
+    "latitude": 47.5143,
+    "longitude": 6.827
+  },
+  {
+    "id_lieu": 18,
+    "adresse": "22 rue de Châtenois",
+    "ville": "Bethoncourt",
+    "type_lieu": "domicile",
+    "latitude": 47.5353,
+    "longitude": 6.8056
+  },
+  {
+    "id_lieu": 19,
+    "adresse": "23 rue Maurice Ravel",
+    "ville": "Montbéliard",
+    "type_lieu": "domicile",
+    "latitude": 47.5102,
+    "longitude": 6.7987
+  },
+  {
+    "id_lieu": 20,
+    "adresse": "23 cité vers l'Avenir",
+    "ville": "Gigean",
+    "type_lieu": "domicile",
+    "latitude": 43.4993,
+    "longitude": 3.7115
+  },
+  {
+    "id_lieu": 21,
+    "adresse": "24 rue Maurice Ravel",
+    "ville": "Montbéliard",
+    "type_lieu": "domicile",
+    "latitude": 47.5102,
+    "longitude": 6.7987
+  },
+  {
+    "id_lieu": 22,
+    "adresse": "290 rue du Village",
+    "ville": "Villeneuve-sous-Pymont",
+    "type_lieu": "domicile",
+    "latitude": 46.691,
+    "longitude": 5.572
+  },
+  {
+    "id_lieu": 23,
+    "adresse": "3 allée Paul Elie Dubois",
+    "ville": "Valentigney",
+    "type_lieu": "domicile",
+    "latitude": 47.4639,
+    "longitude": 6.8314
+  },
+  {
+    "id_lieu": 24,
+    "adresse": "30 rue Commandant Prince",
+    "ville": "Châtenois-les-Forges",
+    "type_lieu": "domicile",
+    "latitude": 47.5569,
+    "longitude": 6.8458
+  },
+  {
+    "id_lieu": 25,
+    "adresse": "33 rue Jean de la Fontaine",
+    "ville": "Belfort",
+    "type_lieu": "domicile",
+    "latitude": 47.6376,
+    "longitude": 6.8629
+  },
+  {
+    "id_lieu": 26,
+    "adresse": "37 rue Georges Clemenceau",
+    "ville": "Montbéliard",
+    "type_lieu": "domicile",
+    "latitude": 47.5102,
+    "longitude": 6.7987
+  }
+]
