@@ -1,6 +1,6 @@
 # 🚗 FCSM Covoiturage
 
-Plateforme de covoiturage dédiée aux supporters du FC Sochaux-Montbéliard pour faciliter les déplacements vers le stade les jours de match.
+Plateforme de covoiturage dédiée aux supporters du FC Sochaux-Montbéliard pour faciliter les déplacements vers le stade les jours de match. Et proposer une alternatif avec Json pour les groupes
 
 ---
 
