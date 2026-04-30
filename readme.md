@@ -9,6 +9,10 @@ Plateforme de covoiturage dédiée aux supporters du FC Sochaux-Montbéliard pou
 👉 https://magenta-dogfish-494017.hostingersite.com/index.php
 
 ---
+## 🌐 Accès au Canva ( diaporama)
+
+👉 https://canva.link/r85ooarg1nf4jjq
+
 
 ## ⚙️ Fonctionnalités principales
 
